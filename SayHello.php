@@ -4,4 +4,4 @@ echo 'hello world';
 
 echo 'hello foo';
 
-echo 'hello Xianghan';
+echo 'hello bar';
